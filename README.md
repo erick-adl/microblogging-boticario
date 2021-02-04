@@ -2,11 +2,11 @@
 
 A new Flutter project.
 
-## Clean Architecture and TDD for Real App Flutter
+
 
 <br />
 
-<h3 align="center">Architecture Proposal</h3>
+<h3 align="center">Architecture Proposal: Clean Architecture and TDD for Real App Flutter</h3>
 
 <br />
 
