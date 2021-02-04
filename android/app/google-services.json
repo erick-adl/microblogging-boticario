@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656578867851",
+    "project_id": "microblogging-d25c0",
+    "storage_bucket": "microblogging-d25c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656578867851:android:61761bf78e51611a5e1a8e",
+        "android_client_info": {
+          "package_name": "com.erick.microblogging.boticario.microblogging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656578867851-suhbe65vu060dik8ine87hop783jitam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMQvWHbJW0oJjXAECAtiKvQUYly4N3SqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656578867851-suhbe65vu060dik8ine87hop783jitam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
